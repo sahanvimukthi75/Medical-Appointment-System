@@ -6,6 +6,7 @@ import {authContext} from '../context/AuthContext.jsx'
 import HashLoader from "react-spinners/HashLoader.js";
 
 const Login = () => {
+  //This is just 
   const [formData, setFormData] = useState({
     email: "",
     password: "",
